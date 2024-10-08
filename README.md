@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋I'm Asadullah Siddiqui
 
+🔭 I’m currently working on some exciting projects  
+👨‍💻 Passionate about Electronics, Robotics and Automation.
+🦾 Pursuing BTech in Electronics & Communication Engineering at National Institute of Technology, Patna  
+🌱 Currently expanding my skills in robotics, machine learning, and automation  
+📫 connect with me via [email](mailto:mds.ug23.ec@nitp.ac.in)  
+😄 Pronouns: He/Him/His  
+🎓 Always eager to learn and grow in the field of technology  
 <!--
 **TechyAsad/TechyAsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
