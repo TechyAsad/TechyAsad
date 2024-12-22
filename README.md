@@ -3,7 +3,7 @@
 🔭 I’m currently working on some exciting projects  
 👨‍💻 Passionate about Electronics, Robotics and Automation.
 🦾 Pursuing BTech in Electronics & Communication Engineering at National Institute of Technology, Patna  
-🌱 Currently expanding my skills in robotics, machine learning, and automation  
+🌱 Currently expanding my skills in electronics, machine learning, and robotics  
 📫 connect with me via [email](mailto:mds.ug23.ec@nitp.ac.in)  
 😄 Pronouns: He/Him/His  
 🎓 Always eager to learn and grow in the field of technology  
